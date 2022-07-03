@@ -1,6 +1,6 @@
 # Django Blog App
 
-> a simple blog app built on top of django-rest-framework and front-end library react js
+> a simple blog app built on top of django-rest-framework
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django)
